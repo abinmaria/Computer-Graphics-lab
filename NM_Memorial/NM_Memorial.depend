@@ -875,3 +875,9 @@
 	<GL/glu.h>
 	<stdlib.h>
 
+1730214639 source:c:\users\acer\desktop\graphics\computer-graphics-lab\nm_memorial\main.cpp
+	<GL/glu.h>
+	<GL/glut.h>
+	<windows.h>
+	<cmath>
+
